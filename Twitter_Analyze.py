@@ -1,6 +1,4 @@
-# Jasmine Campbell 250886086
-
-# Import Graphics
+#Jasmine Campbell
 
 from happy_histogram import drawSimpleHistogram
 
